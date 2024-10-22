@@ -31,5 +31,5 @@ This project shows the lifecycle of an end-to-end machine learning project. The 
     * Evaluate the model on the training set
 7. Launch, monitor and maintain the system.
 
-**For more details, check the associated notebook**
+**For more details, check the associated notebook**<br>
 The `.pkl` file for the final and best model using `RandomForest` has not been uploaded since the size is larger than the allowed limit.
